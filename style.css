@@ -14,6 +14,48 @@ body h1 {
 h1:hover{
     background-color: honeydew;
 }
+
+body .fa-house-user {
+    color: burlywood;
+    size: 0ch;
+
+}
+body .fa-house-user:hover {
+    cursor: pointer;
+    color: rgb(23, 190, 196);
+}
+body .fa-address-card {
+    color: burlywood;
+    size:0ch;
+}
+body .fa-address-card:hover {
+    cursor: pointer;
+    color: rgb(23, 190, 196);
+}
+body .fa-user-graduate {
+    color: burlywood;
+    size: 0ch;
+}
+body .fa-user-graduate:hover {
+    cursor: pointer;
+    color: rgb(23, 190, 196);
+}
+body .fa-screwdriver-wrench {
+    color:burlywood;
+    size: 0ch;
+}
+body .fa-screwdriver-wrench:hover {
+    cursor: pointer;
+    color: rgb(23, 190, 196);
+}
+body .fa-address-book {
+    color: burlywood;
+    size: 0ch;
+}
+body .fa-address-book:hover {
+    cursor: pointer;
+    color: rgb(23, 190, 196);
+}
 body h2{
     color: rgb(12, 124, 216);
     font-size: 18px;
